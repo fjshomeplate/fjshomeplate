@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Stats:
+[![Stats](https://github-readme-stats.vercel.app/api?username=fjshomeplate)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjshomeplate)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://app.daily.dev/fjshomeplate"><img src="https://api.daily.dev/devcards/6903155af25a4912a635413f889ac5b7.png?r=b0s" width="400" alt="Felix's Dev Card"/></a>
